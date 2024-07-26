@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "831649926348",
+    "project_id": "stepcountingandactivitytrackin",
+    "storage_bucket": "stepcountingandactivitytrackin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831649926348:android:d038f4d15c28164be80669",
+        "android_client_info": {
+          "package_name": "com.link.step_counting_and_activity_tracking_application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAD64OyJEWCh1cAaNow0B5ER8QN0S11INU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
